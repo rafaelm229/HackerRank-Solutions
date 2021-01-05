@@ -25,7 +25,7 @@ Feel Free to contributing
 ## Licenses
 
 
- :copyright:[Mit](/LICENSE) 
+ [Mit](/LICENSE):copyright:
 
 
 
