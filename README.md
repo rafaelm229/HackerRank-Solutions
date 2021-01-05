@@ -16,7 +16,7 @@ All solutions will be written in :coffee: **Java**  and :snake:**Python**
 
 
 
-## :busts_in_silhouette: Contributing
+## Contributing
 
 
 Feel Free to contributing
@@ -25,7 +25,7 @@ Feel Free to contributing
 ## Licenses
 
 
- [Mit](/LICENSE):copyright:
+ [Mit](/LICENSE)
 
 
 
