@@ -37,18 +37,18 @@ All solutions will be written in :coffee: **Java**  and :snake:**Python**
 
 
 
-## :busts_in_silhouette: Contributing
+## Contributing
 
 Feel free to Contributing with the solutions.
 
 
-## :copyright: Licenses
+## Licenses
 
 MIT
 
 
 
-## :happy: Contact
+## Contact
 
 
 
