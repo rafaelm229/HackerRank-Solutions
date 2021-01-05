@@ -4,7 +4,6 @@
 
 ###  Description
 
----
 
 With The Problem solving solutions you can find all Solutions from Hackerrank with the explanation along with the code.
 
@@ -14,7 +13,6 @@ All solutions will be written in :coffee: **Java**  and :snake:**Python**
 
 ###  Prerequisites
 
----
 
 - Python 3.x
 - Java 
@@ -23,7 +21,6 @@ All solutions will be written in :coffee: **Java**  and :snake:**Python**
 
 ### Installation
 
----
 
 - Don't Need Installation The Hackerrank platform have their on IDE.
 
@@ -31,7 +28,6 @@ All solutions will be written in :coffee: **Java**  and :snake:**Python**
 
 ###  Solutions
 
----
 
 | Title                                                        | Solution       | Difficulty | Note |
 | ------------------------------------------------------------ | -------------- | ---------- | ---- |
@@ -51,13 +47,13 @@ Feel free to Contributing with the solutions.
 
 ### :copyright: Licenses
 
----
+MIT
 
 
 
 ### :happy: Contact
 
----
+
 
 :email: E-mail :  rafaelnunesmoura@protonmail.com
 
