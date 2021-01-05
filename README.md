@@ -1,4 +1,5 @@
 # Hackerrank Solutions
+![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp; ![Language](https://img.shields.io/badge/language-Java-blue)&nbsp; [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 
 ### Description
 
