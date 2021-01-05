@@ -15,6 +15,8 @@ All solutions will be written in :coffee: **Java**  and :snake:**Python**
 - Java 
 
 
+## Solutions
+[Problem Solving](https://github.com/rafaelm229/Hackerrank-Solutions/tree/master/Problem%20Solving%20)
 
 ## Contributing
 
