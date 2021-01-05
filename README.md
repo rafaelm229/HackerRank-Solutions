@@ -1,10 +1,10 @@
-# Hackerrank 
+# Hackerrank Solutions
 
 ### :page_facing_up: Description
 
 ---
 
-ith The Problem solving solutions you can find all Solutions from Hackerrank with the explanation along with the code.
+with The Hackerrank solutions you can find all Solutions from Hackerrank with the explanation along with the code.
 
 All solutions will be written in :coffee: **Java**  and :snake:**Python**
 
